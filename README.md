@@ -33,8 +33,5 @@
 - **Automatic language detection** — `frFR`/`frCA` → French · `deDE` → German · `esES`/`esMX` → Spanish · `ruRU` → Russian · any other client → English. 
 - **Slash command** — `/som` to toggle the tracker window.
 
-## Troubleshooting
-
-If the addon shows errors, take a screenshot and send it to me on [X (Twitter)](https://x.com/poulpi_x).
-
----
+### Troubleshooting
+If the addon shows errors, take a screenshot and send it to me on [Discord](https://discord.gg/2jfqdYDuaY).
