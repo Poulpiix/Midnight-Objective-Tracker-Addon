@@ -3,6 +3,8 @@
 
 **A week-by-week in-game progression guide for World of Warcraft: Midnight.** Automatically detects your WoW client language and displays in French, English, German, Russian or Spanish.
 
+![alt text](https://raw.githubusercontent.com/Poulpiix/media/refs/heads/main/ezgif-72a8e6f4ed7016b5.webp)
+
 ## Key Features
 - **Step-by-step weekly guide** — A draggable, in-game window detailing exactly what to do each week from Midnight launch to endgame optimization.
 - **Auto-hide completed weeks** — Once all objectives in a week are checked, it disappears from the list automatically to keep the display clean.
